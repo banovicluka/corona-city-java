@@ -1,0 +1,9 @@
+Trajanje simulacije je 0 minuta i 16sekundi.
+Broj kreiranih kuca je 10.
+Broj kreiranih bolnica je 4.
+Broj kreiranih kontrolnih punkteva je 10.
+Broj kreirane djece je 10.
+Broj kreiranih odraslih je 10.
+Broj kreiranih starijih je 10.
+============================================================
+Statisticki podaci o stanju stanovnika zarazenih virusom JavaKov-20:

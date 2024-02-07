@@ -1,0 +1,32 @@
+Trajanje simulacije je 2 minuta i 41sekundi.
+Dimenzija mape je 21.
+Broj kreiranih kuca je 8.
+Broj kreiranih bolnica je 7.
+Broj kreiranih kontrolnih punkteva je 8.
+Broj kreirane djece je 8.
+Broj kreiranih odraslih je 8.
+Broj kreiranih starijih je 8.
+============================================================
+Statisticki podaci o stanju stanovnika zarazenih virusom JavaKov-20:
++ stari1ime stari1prezime ,godiste 1947, rod zenski, koordinate [0,20]
++ dijete6ime dijete6prezime ,godiste 2011, rod zenski, koordinate [0,20]
++ odrasli7ime odrasli7prezime ,godiste 1977, rod muski, koordinate [0,0]
++ dijete0ime dijete0prezime ,godiste 2009, rod muski, koordinate [0,0]
++ dijete4ime dijete4prezime ,godiste 2008, rod muski, koordinate [20,0]
+- odrasli7ime odrasli7prezime ,godiste 1977, rod muski, koordinate [18,7]
++ stari5ime stari5prezime ,godiste 1925, rod zenski, koordinate [0,0]
+- dijete6ime dijete6prezime ,godiste 2011, rod zenski, koordinate [3,14]
++ odrasli6ime odrasli6prezime ,godiste 1976, rod zenski, koordinate [20,0]
++ odrasli7ime odrasli7prezime ,godiste 1977, rod muski, koordinate [0,20]
+- odrasli7ime odrasli7prezime ,godiste 1977, rod muski, koordinate [18,7]
+- dijete0ime dijete0prezime ,godiste 2009, rod muski, koordinate [7,17]
+- stari5ime stari5prezime ,godiste 1925, rod zenski, koordinate [10,14]
++ stari7ime stari7prezime ,godiste 1941, rod zenski, koordinate [0,0]
+- odrasli6ime odrasli6prezime ,godiste 1976, rod zenski, koordinate [3,14]
++ stari6ime stari6prezime ,godiste 1928, rod muski, koordinate [20,0]
++ dijete0ime dijete0prezime ,godiste 2009, rod muski, koordinate [0,20]
++ stari5ime stari5prezime ,godiste 1925, rod zenski, koordinate [0,0]
+- stari7ime stari7prezime ,godiste 1941, rod zenski, koordinate [18,7]
+- stari1ime stari1prezime ,godiste 1947, rod zenski, koordinate [12,4]
++ odrasli2ime odrasli2prezime ,godiste 1960, rod muski, koordinate [20,20]
+- stari5ime stari5prezime ,godiste 1925, rod zenski, koordinate [10,14]

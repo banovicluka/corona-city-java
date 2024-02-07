@@ -1,0 +1,29 @@
+Trajanje simulacije je 1 minuta i 8sekundi.
+Dimenzija mape je 19.
+Broj kreiranih kuca je 17.
+Broj kreiranih bolnica je 6.
+Broj kreiranih kontrolnih punkteva je 17.
+Broj kreirane djece je 17.
+Broj kreiranih odraslih je 17.
+Broj kreiranih starijih je 17.
+============================================================
+Statisticki podaci o stanju stanovnika zarazenih virusom JavaKov-20:
++ dijete11ime dijete11prezime ,godiste 2005, rod zenski, koordinate [0,0]
++ odrasli16ime odrasli16prezime ,godiste 1981, rod zenski, koordinate [0,0]
++ odrasli9ime odrasli9prezime ,godiste 1985, rod muski, koordinate [0,0]
++ stari4ime stari4prezime ,godiste 1939, rod zenski, koordinate [0,0]
++ dijete6ime dijete6prezime ,godiste 2013, rod zenski, koordinate [0,0]
++ dijete3ime dijete3prezime ,godiste 2002, rod zenski, koordinate [0,0]
++ dijete14ime dijete14prezime ,godiste 2010, rod zenski, koordinate [0,18]
++ dijete15ime dijete15prezime ,godiste 2007, rod zenski, koordinate [0,18]
++ stari2ime stari2prezime ,godiste 1946, rod zenski, koordinate [0,18]
++ dijete0ime dijete0prezime ,godiste 2015, rod muski, koordinate [0,18]
+- odrasli16ime odrasli16prezime ,godiste 1981, rod zenski, koordinate [3,6]
++ dijete10ime dijete10prezime ,godiste 2011, rod zenski, koordinate [0,0]
++ stari16ime stari16prezime ,godiste 1943, rod muski, koordinate [0,18]
+- dijete3ime dijete3prezime ,godiste 2002, rod zenski, koordinate [16,13]
+- dijete14ime dijete14prezime ,godiste 2010, rod zenski, koordinate [15,15]
+- dijete15ime dijete15prezime ,godiste 2007, rod zenski, koordinate [9,2]
+- odrasli9ime odrasli9prezime ,godiste 1985, rod muski, koordinate [9,15]
+- dijete10ime dijete10prezime ,godiste 2011, rod zenski, koordinate [13,7]
+- stari16ime stari16prezime ,godiste 1943, rod muski, koordinate [3,6]

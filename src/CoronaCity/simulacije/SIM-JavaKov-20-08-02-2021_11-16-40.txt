@@ -1,0 +1,37 @@
+Trajanje simulacije je 1 minuta i 44sekundi.
+Dimenzija mape je 20.
+Broj kreiranih kuca je 10.
+Broj kreiranih bolnica je 7.
+Broj kreiranih kontrolnih punkteva je 10.
+Broj kreirane djece je 10.
+Broj kreiranih odraslih je 10.
+Broj kreiranih starijih je 10.
+============================================================
+Statisticki podaci o stanju stanovnika zarazenih virusom JavaKov-20:
++ odrasli4ime odrasli4prezime ,godiste 1996, rod zenski, koordinate [19,0]
++ odrasli3ime odrasli3prezime ,godiste 1966, rod muski, koordinate [0,19]
++ dijete7ime dijete7prezime ,godiste 2006, rod muski, koordinate [0,19]
++ stari6ime stari6prezime ,godiste 1937, rod zenski, koordinate [0,19]
++ odrasli9ime odrasli9prezime ,godiste 1961, rod muski, koordinate [0,0]
++ dijete1ime dijete1prezime ,godiste 2014, rod muski, koordinate [0,0]
++ stari2ime stari2prezime ,godiste 1926, rod muski, koordinate [0,0]
+- stari2ime stari2prezime ,godiste 1926, rod muski, koordinate [6,17]
+- stari6ime stari6prezime ,godiste 1937, rod zenski, koordinate [3,16]
++ dijete6ime dijete6prezime ,godiste 2014, rod zenski, koordinate [0,19]
++ odrasli2ime odrasli2prezime ,godiste 1974, rod zenski, koordinate [0,0]
++ dijete8ime dijete8prezime ,godiste 2011, rod zenski, koordinate [19,0]
+- dijete1ime dijete1prezime ,godiste 2014, rod muski, koordinate [9,10]
++ dijete1ime dijete1prezime ,godiste 2014, rod muski, koordinate [0,0]
+- odrasli3ime odrasli3prezime ,godiste 1966, rod muski, koordinate [2,4]
++ stari3ime stari3prezime ,godiste 1926, rod zenski, koordinate [0,19]
++ dijete0ime dijete0prezime ,godiste 2003, rod muski, koordinate [19,19]
++ dijete5ime dijete5prezime ,godiste 2006, rod muski, koordinate [19,0]
+- odrasli4ime odrasli4prezime ,godiste 1996, rod zenski, koordinate [6,10]
+- odrasli2ime odrasli2prezime ,godiste 1974, rod zenski, koordinate [6,17]
+- dijete8ime dijete8prezime ,godiste 2011, rod zenski, koordinate [16,16]
+- dijete6ime dijete6prezime ,godiste 2014, rod zenski, koordinate [3,16]
+- dijete0ime dijete0prezime ,godiste 2003, rod muski, koordinate [13,12]
++ odrasli4ime odrasli4prezime ,godiste 1996, rod zenski, koordinate [19,0]
++ stari6ime stari6prezime ,godiste 1937, rod zenski, koordinate [0,19]
++ odrasli2ime odrasli2prezime ,godiste 1974, rod zenski, koordinate [0,0]
+- dijete7ime dijete7prezime ,godiste 2006, rod muski, koordinate [3,6]

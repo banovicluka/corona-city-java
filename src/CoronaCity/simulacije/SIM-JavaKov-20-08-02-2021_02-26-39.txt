@@ -1,0 +1,50 @@
+Trajanje simulacije je 3 minuta i 15sekundi.
+Dimenzija mape je 29.
+Broj kreiranih kuca je 10.
+Broj kreiranih bolnica je 7.
+Broj kreiranih kontrolnih punkteva je 10.
+Broj kreirane djece je 10.
+Broj kreiranih odraslih je 10.
+Broj kreiranih starijih je 10.
+============================================================
+Statisticki podaci o stanju stanovnika zarazenih virusom JavaKov-20:
++ dijete3ime dijete3prezime ,godiste 2015, rod muski, koordinate [0,28]
++ dijete7ime dijete7prezime ,godiste 2015, rod zenski, koordinate [0,28]
++ stari1ime stari1prezime ,godiste 1940, rod muski, koordinate [0,28]
++ dijete5ime dijete5prezime ,godiste 2005, rod muski, koordinate [0,0]
++ dijete6ime dijete6prezime ,godiste 2007, rod muski, koordinate [0,0]
++ dijete2ime dijete2prezime ,godiste 2013, rod muski, koordinate [0,0]
++ odrasli4ime odrasli4prezime ,godiste 1968, rod muski, koordinate [28,0]
++ dijete0ime dijete0prezime ,godiste 2005, rod muski, koordinate [28,0]
++ odrasli8ime odrasli8prezime ,godiste 1965, rod muski, koordinate [28,0]
+- dijete5ime dijete5prezime ,godiste 2005, rod muski, koordinate [7,25]
++ stari9ime stari9prezime ,godiste 1937, rod muski, koordinate [28,28]
+- dijete6ime dijete6prezime ,godiste 2007, rod muski, koordinate [19,23]
+- dijete0ime dijete0prezime ,godiste 2005, rod muski, koordinate [16,10]
+- stari9ime stari9prezime ,godiste 1937, rod muski, koordinate [26,6]
++ dijete6ime dijete6prezime ,godiste 2007, rod muski, koordinate [0,0]
++ stari0ime stari0prezime ,godiste 1949, rod zenski, koordinate [0,0]
+- stari1ime stari1prezime ,godiste 1940, rod muski, koordinate [14,23]
+- dijete3ime dijete3prezime ,godiste 2015, rod muski, koordinate [6,13]
+- dijete7ime dijete7prezime ,godiste 2015, rod zenski, koordinate [9,5]
++ stari9ime stari9prezime ,godiste 1937, rod muski, koordinate [0,28]
++ odrasli1ime odrasli1prezime ,godiste 1987, rod muski, koordinate [0,28]
+- dijete6ime dijete6prezime ,godiste 2007, rod muski, koordinate [19,23]
+- stari0ime stari0prezime ,godiste 1949, rod zenski, koordinate [16,10]
++ stari0ime stari0prezime ,godiste 1949, rod zenski, koordinate [0,28]
++ dijete3ime dijete3prezime ,godiste 2015, rod muski, koordinate [0,0]
++ stari6ime stari6prezime ,godiste 1943, rod muski, koordinate [0,0]
++ odrasli5ime odrasli5prezime ,godiste 1990, rod zenski, koordinate [28,0]
+- stari0ime stari0prezime ,godiste 1949, rod zenski, koordinate [16,10]
+- odrasli4ime odrasli4prezime ,godiste 1968, rod muski, koordinate [7,20]
+- dijete2ime dijete2prezime ,godiste 2013, rod muski, koordinate [7,15]
++ dijete4ime dijete4prezime ,godiste 2002, rod muski, koordinate [28,0]
++ odrasli0ime odrasli0prezime ,godiste 1979, rod zenski, koordinate [0,28]
+- stari9ime stari9prezime ,godiste 1937, rod muski, koordinate [26,6]
+- dijete4ime dijete4prezime ,godiste 2002, rod muski, koordinate [7,20]
+- odrasli5ime odrasli5prezime ,godiste 1990, rod zenski, koordinate [7,25]
+- dijete3ime dijete3prezime ,godiste 2015, rod muski, koordinate [6,13]
+- odrasli0ime odrasli0prezime ,godiste 1979, rod zenski, koordinate [16,10]
+- odrasli1ime odrasli1prezime ,godiste 1987, rod muski, koordinate [14,23]
++ stari4ime stari4prezime ,godiste 1919, rod zenski, koordinate [0,0]
++ stari0ime stari0prezime ,godiste 1949, rod zenski, koordinate [0,0]

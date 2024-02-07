@@ -1,0 +1,12 @@
+Trajanje simulacije je 0 minuta i 43sekundi.
+Dimenzija mape je 28.
+Broj kreiranih kuca je 9.
+Broj kreiranih bolnica je 4.
+Broj kreiranih kontrolnih punkteva je 9.
+Broj kreirane djece je 9.
+Broj kreiranih odraslih je 9.
+Broj kreiranih starijih je 9.
+============================================================
+Statisticki podaci o stanju stanovnika zarazenih virusom JavaKov-20:
++ dijete5ime dijete5prezime ,godiste 2003, rod zenski, koordinate [0,0]
+- dijete5ime dijete5prezime ,godiste 2003, rod zenski, koordinate [19,15]
